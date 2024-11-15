@@ -1,5 +1,3 @@
-
-
 # Creating a list of student names
 students = ["Alice", "Bob", "Charlie", "David"]
 print("Students:", students)
